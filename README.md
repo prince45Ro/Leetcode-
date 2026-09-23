@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince45Ro/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

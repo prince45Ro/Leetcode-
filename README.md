@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

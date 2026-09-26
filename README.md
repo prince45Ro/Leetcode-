@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 ## Divide and Conquer
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

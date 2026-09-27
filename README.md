@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prince45Ro/Leetcode-/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 ## Binary Search
 |  |

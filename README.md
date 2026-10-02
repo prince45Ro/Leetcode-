@@ -16,6 +16,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince45Ro/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |

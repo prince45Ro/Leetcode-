@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/prince45Ro/Leetcode-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
 ## Linked List
 |  |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/prince45Ro/Leetcode-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
 ## Linked List
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

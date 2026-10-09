@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/prince45Ro/Leetcode-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/prince45Ro/Leetcode-/tree/master/0029-divide-two-integers) |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +66,24 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

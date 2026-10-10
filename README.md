@@ -9,6 +9,7 @@
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,12 +99,18 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

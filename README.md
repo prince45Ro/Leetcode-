@@ -28,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prince45Ro/Leetcode-/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
@@ -43,6 +44,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |

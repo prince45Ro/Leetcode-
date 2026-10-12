@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince45Ro/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation

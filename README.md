@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +156,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prince45Ro/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

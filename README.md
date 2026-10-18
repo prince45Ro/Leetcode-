@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prince45Ro/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |

@@ -48,6 +48,7 @@
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
+| [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -138,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -175,4 +177,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

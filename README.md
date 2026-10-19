@@ -65,6 +65,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prince45Ro/Leetcode-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prince45Ro/Leetcode-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prince45Ro/Leetcode-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |

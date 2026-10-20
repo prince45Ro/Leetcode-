@@ -46,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prince45Ro/Leetcode-/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/prince45Ro/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prince45Ro/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prince45Ro/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
@@ -194,6 +197,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
@@ -213,4 +217,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

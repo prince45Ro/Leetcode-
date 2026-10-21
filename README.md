@@ -51,6 +51,7 @@
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince45Ro/Leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
@@ -246,4 +247,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

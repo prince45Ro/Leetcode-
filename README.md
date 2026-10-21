@@ -52,6 +52,7 @@
 | [0136-single-number](https://github.com/prince45Ro/Leetcode-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince45Ro/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |
@@ -93,6 +94,7 @@
 | [0018-4sum](https://github.com/prince45Ro/Leetcode-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/prince45Ro/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince45Ro/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince45Ro/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince45Ro/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince45Ro/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

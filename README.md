@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/prince45Ro/Leetcode-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/prince45Ro/Leetcode-/tree/master/0292-nim-game) |
+| [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
@@ -52,6 +53,7 @@
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/prince45Ro/Leetcode-/tree/master/1920-build-array-from-permutation) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince45Ro/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

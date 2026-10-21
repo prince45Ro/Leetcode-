@@ -158,6 +158,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/prince45Ro/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prince45Ro/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prince45Ro/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
@@ -239,6 +240,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prince45Ro/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -254,12 +256,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prince45Ro/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prince45Ro/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Prefix Sum
 |  |

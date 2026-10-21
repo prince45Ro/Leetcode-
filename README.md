@@ -52,6 +52,7 @@
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince45Ro/Leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
+| [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |

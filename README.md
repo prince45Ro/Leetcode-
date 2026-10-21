@@ -54,6 +54,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/prince45Ro/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince45Ro/Leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@
 | [0258-add-digits](https://github.com/prince45Ro/Leetcode-/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prince45Ro/Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/prince45Ro/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince45Ro/Leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |

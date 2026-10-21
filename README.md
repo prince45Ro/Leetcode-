@@ -226,6 +226,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,8 +237,10 @@
 | ------- |
 | [0100-same-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prince45Ro/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/prince45Ro/Leetcode-/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

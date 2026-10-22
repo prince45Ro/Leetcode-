@@ -53,6 +53,7 @@
 | [0239-sliding-window-maximum](https://github.com/prince45Ro/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/prince45Ro/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince45Ro/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/prince45Ro/Leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/prince45Ro/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prince45Ro/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/prince45Ro/Leetcode-/tree/master/1672-richest-customer-wealth) |

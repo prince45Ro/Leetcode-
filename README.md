@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/prince45Ro/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prince45Ro/Leetcode-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |

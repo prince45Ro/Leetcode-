@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prince45Ro/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/prince45Ro/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince45Ro/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prince45Ro/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/prince45Ro/Leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prince45Ro/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -206,6 +208,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prince45Ro/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince45Ro/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |

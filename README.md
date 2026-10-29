@@ -73,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prince45Ro/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/prince45Ro/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/prince45Ro/Leetcode-/tree/master/0085-maximal-rectangle) |
 ## Backtracking
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince45Ro/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/prince45Ro/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/prince45Ro/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/prince45Ro/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/prince45Ro/Leetcode-/tree/master/0206-reverse-linked-list) |
@@ -200,6 +202,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prince45Ro/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prince45Ro/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/prince45Ro/Leetcode-/tree/master/0844-backspace-string-compare) |

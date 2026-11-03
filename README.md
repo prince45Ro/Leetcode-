@@ -205,6 +205,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/prince45Ro/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/prince45Ro/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/prince45Ro/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prince45Ro/Leetcode-/tree/master/0058-length-of-last-word) |
